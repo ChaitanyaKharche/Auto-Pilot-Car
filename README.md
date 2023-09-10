@@ -2,8 +2,6 @@ Great choice! Here's an updated README for your "AutoPilotFury" Self-Driving Rac
 
 # AutoPilotFury - Self-Driving Racing Car Game
 
-![Game Screenshot](screenshot.png)
-
 ## Overview
 
 Welcome to AutoPilotFury, an exhilarating self-driving racing car game that fuses the thrill of high-speed racing with cutting-edge AI technology. In this game, players can spectate AI-controlled cars navigate challenging tracks autonomously or take on the role of an AI trainer, fine-tuning their vehicles for peak performance.
@@ -72,8 +70,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, contact us at [your.email@example.com](mailto:your.email@example.com).
 
 Get ready for the AutoPilotFury challenge!
-
-![Logo](logo.png)
 
 ---
 
