@@ -68,6 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For questions or feedback, contact us at [ameyagidh2@gmail.com](mailto:ameyagidh2@gmail.com).
+For questions or feedback, contact us at [kchaitanya1331@gmail.com](mailto:kchaitanya1331@gmail.com).
 
 Get ready for the AutoPilotFury challenge!
 
