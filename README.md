@@ -1,6 +1,13 @@
+
+https://github.com/ChaitanyaKharche/Auto-Pilot-Car/assets/72820371/6c9122c8-94a9-44f9-bd2c-203fb52f5267
 Great choice! Here's an updated README for your "AutoPilotFury" Self-Driving Racing Car Game project:
 
 # AutoPilotFury - Self-Driving Racing Car Game
+
+Update: The cars dont crash into each other anymore, they also slow down when they come into contact with dirt or sand or grass.
+
+https://github.com/ChaitanyaKharche/Auto-Pilot-Car/assets/72820371/aa3f7f1c-cb03-4f24-a557-eaf08bc5aa4a
+
 
 ## Overview
 
